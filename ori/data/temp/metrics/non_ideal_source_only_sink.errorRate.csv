@@ -1,0 +1,6 @@
+INPUT1,INPUT2,error_rate
+..\data\temp\datfile\non_ideal_source_only_source.1KB.dat,..\data\temp\datfile\non_ideal_source_only_output.dat,0.0
+..\data\temp\datfile\non_ideal_source_only_source.1KB.dat,..\data\temp\datfile\non_ideal_source_only_output.dat,0.05514705882352941
+..\data\temp\datfile\non_ideal_source_only_source.10KB.dat,..\data\temp\datfile\non_ideal_source_only_output.dat,0.0
+..\data\temp\datfile\non_ideal_source_only_source.10KB.dat,..\data\temp\datfile\non_ideal_source_only_output.dat,0.0
+..\data\temp\datfile\non_ideal_source_only_source.100KB.dat,..\data\temp\datfile\non_ideal_source_only_output.dat,0.0

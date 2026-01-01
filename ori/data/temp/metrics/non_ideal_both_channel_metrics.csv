@@ -1,0 +1,2 @@
+"X","Y","H(X)","H(Y)","H(XY)","H(X|Y)","H(Y|X)","I(X;Y)","p"
+"""..\data\temp\datfile\non_ideal_both_source.encode.huf""","""..\data\temp\datfile\non_ideal_both_channel.decode.dat""","0","0","0","0","0","0.0","0.00795867918081878"

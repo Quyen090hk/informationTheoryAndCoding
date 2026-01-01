@@ -1,0 +1,6 @@
+INPUT1,INPUT2,error_rate
+..\data\temp\datfile\non_ideal_none_source.1KB.dat,..\data\temp\datfile\non_ideal_none_output.dat,0.0030517578125
+..\data\temp\datfile\non_ideal_none_source.1KB.dat,..\data\temp\datfile\non_ideal_none_output.dat,0.0025634765625
+..\data\temp\datfile\non_ideal_none_source.10KB.dat,..\data\temp\datfile\non_ideal_none_output.dat,0.00216064453125
+..\data\temp\datfile\non_ideal_none_source.10KB.dat,..\data\temp\datfile\non_ideal_none_output.dat,0.00272216796875
+..\data\temp\datfile\non_ideal_none_source.100KB.dat,..\data\temp\datfile\non_ideal_none_output.dat,0.002510986328125

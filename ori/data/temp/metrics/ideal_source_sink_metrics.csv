@@ -1,0 +1,2 @@
+"X","Y","H(X)","H(Y)","H(XY)","H(X|Y)","H(Y|X)","I(X;Y)","p"
+"""..\data\temp\datfile\ideal_source.100KB.dat""","""..\data\temp\datfile\ideal_source_sink.dat""","0","0","0","0","0","0.0","0.0"
